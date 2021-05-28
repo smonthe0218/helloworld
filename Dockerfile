@@ -1,5 +1,5 @@
 # Pull base image 
-From apache tomcat 8.5.66 
+From apache tomcat
 
 # Maintainer 
 MAINTAINER "kserge2001@yahoo.fr" 
